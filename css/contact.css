@@ -85,7 +85,8 @@ nav .nav-links i#nav-cross{
     height: 250px;
     transform:translate(-50%,-50%) ;
 /*     background: url('map.jpg'); */
-    background: linear-gradient (45deg , rgb(255, 255, 255), rgb(0, 0, 0) 100%);
+/*     background: linear-gradient (45deg , rgb(255, 255, 255), rgb(0, 0, 0) 100%); */
+    background:red;
     background-size: cover;
     background-repeat: repeat-x;
     border-radius: 50%;
