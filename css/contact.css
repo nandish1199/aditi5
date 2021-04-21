@@ -41,8 +41,8 @@ nav .nav-links ul li a{
 }
 nav .nav-links a:hover{
     /* color: rgb(68, 68, 68); */
-    outline: 1px solid rgb(201, 201, 201);
-    /* background:linear-gradient(to right, rgb(9, 0, 136), rgb(121, 121, 255)); */
+/*     outline: 1px solid rgb(201, 201, 201); */
+    background:linear-gradient(to right, rgb(9, 0, 136), rgb(121, 121, 255));
 }
 nav i#burger{
     font-size: 1.3em;
