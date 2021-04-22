@@ -88,7 +88,7 @@ nav .nav-links i#nav-cross{
     color: #ffeb3b;
     font-size: 4em;
     font-weight: 600;
-    -webkit-box-reflect: below -1px linear-gradient(transparent,#0005);
+/*     -webkit-box-reflect: below -1px linear-gradient(transparent,#0005); */
     text-shadow: 0 0 10px #ffeb3b;
                 /* 0 0 40px #ffeb3b; */
                 /* 0 0 80px #ffeb3b,
@@ -99,7 +99,7 @@ nav .nav-links i#nav-cross{
     color: #ff1100;
     font-size: 4em;
     font-weight: 600;
-    -webkit-box-reflect: below 4px linear-gradient(transparent,#0005);
+/*     -webkit-box-reflect: below 4px linear-gradient(transparent,#0005); */
     text-shadow: 0 0 10px #fc0000;
                 /* 0 0 40px #ff0202,
                 0 0 80px #ff0000,
